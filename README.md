@@ -19,81 +19,96 @@
 
 ## 🎯 About Me
 
-/** 
- * ===============================================
- * 🌌  Backend Developer Class – Raditya Edition  🌌
- * ===============================================
- * A clean, typed, and scalable blueprint —
- * just like how I build my backend systems.
- */
-
-class BackendDeveloper {
-    private readonly name = "Raditya Ahmad";
-    private readonly role = "Junior Backend Developer";
-    private readonly location = "Indonesia 🇮🇩";
-
-    private readonly skills = {
-        backend: ["Node.js ⚡", "Express.js 🚏", "TypeScript 🔷", "PHP 🐘"],
-        database: ["PostgreSQL 🐘", "MySQL 🐬", "MSSQL 🏢"],
-        frontend: ["React ⚛️", "Flutter 🐦", "TailwindCSS 🌬️"],
-        tools: ["Docker 🐳", "Git 🔧", "Linux 🐧"],
-        currentlyLearning: ["Microservices", "System Design", "Cloud Architecture ☁️"]
-    };
-
-    private readonly projects = [
-        "🔍 Lost and Found Application",
-        "🚀 Designing scalable REST APIs",
-        "📚 Deep Diving into System Design Patterns"
-    ];
-
-    private readonly debugRoutine = ["☕ Coffee", "💻 Code", "🐛 Debug", "🔄 Repeat"];
-
-    constructor() {
-        console.log(`🚀 ${this.name} initialized as ${this.role}`);
+<div align="center">
+  <style>
+    .dev-card {
+      background: linear-gradient(135deg, #0f172a, #1e293b);
+      padding: 22px;
+      border-radius: 16px;
+      width: 90%;
+      max-width: 650px;
+      color: #e2e8f0;
+      font-family: "Fira Code", monospace;
+      border: 1px solid rgba(255,255,255,0.08);
+      box-shadow: 0 0 20px rgba(0,0,0,0.4);
+      animation: fadeIn 1.2s ease-out;
     }
 
-    getStatus() {
-        return `🧠 Focus: Building stable, efficient, and scalable backend services`;
+    .title {
+      font-size: 22px;
+      font-weight: bold;
+      background: linear-gradient(to right, #38bdf8, #818cf8);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
     }
 
-    getTechStack() {
-        return this.skills;
+    .code {
+      background: rgba(15, 23, 42, 0.8);
+      padding: 16px;
+      border-radius: 12px;
+      text-align: left;
+      border: 1px solid rgba(255,255,255,0.08);
+      font-size: 14px;
+      line-height: 1.5;
+      position: relative;
+      overflow: hidden;
     }
 
-    getProjects() {
-        return this.projects;
+    /* Typing animation */
+    .typing::after {
+      content: "|";
+      animation: cursor 0.7s infinite alternate;
+      color: #38bdf8;
     }
 
-    contact() {
-        return {
-            askMeAbout: ["TypeScript", "Node.js", "PHP", "API Architecture"],
-            collaborateOn: ["Backend Services", "Open Source", "API Development"],
-            note: "Always open for collaboration & nice conversations 🤝"
-        };
+    @keyframes cursor {
+      0% { opacity: 1; }
+      100% { opacity: 0; }
     }
 
-    dailyRoutine() {
-        console.log("📅 Daily Routine:");
-        this.debugRoutine.forEach(step => console.log("   • " + step));
+    /* Fade */
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
     }
 
-    /** Fancy little animation */
-    bootSequence() {
-        const frames = ["⠁","⠃","⠇","⠧","⠷","⠿","⠟","⠻","⠽","⠾","⠼","⠸","⠠"];
-        let i = 0;
-        const loop = setInterval(() => {
-            process.stdout.write(`\r⚙️ Booting Developer System ${frames[i++]}`);
-            if (i === frames.length) {
-                clearInterval(loop);
-                console.log("\n✅ System Online");
-            }
-        }, 80);
+    /* Glow animation */
+    @keyframes glow {
+      0% { box-shadow: 0 0 4px #38bdf8; }
+      50% { box-shadow: 0 0 12px #38bdf8; }
+      100% { box-shadow: 0 0 4px #38bdf8; }
     }
-}
+  </style>
 
-const raditya = new BackendDeveloper();
-raditya.bootSequence();
-raditya.dailyRoutine();
+  <div class="dev-card">
+    <div class="title">BackendDeveloper.ts — Raditya Ahmad</div>
+    <br>
+
+    <div class="code typing">
+const raditya = {
+  name: "Raditya Ahmad",
+  role: "Junior Backend Developer",
+  location: "Indonesia 🇮🇩",
+
+  focus: "Building stable, efficient & scalable backend services",
+
+  technologies: {
+    backend: ["Node.js ⚡", "Express.js 🚏", "TypeScript 🔷", "PHP 🐘"],
+    database: ["PostgreSQL 🐘", "MySQL 🐬", "MSSQL 🏢"],
+    tools: ["Docker 🐳", "Git 🔧", "Linux 🐧"]
+  },
+
+  projects: [
+    "🔍 Lost and Found System",
+    "🚀 Scalable REST API Architecture",
+    "📚 System Design Exploration"
+  ],
+
+  routine: ["☕ Coffee", "💻 Code", "🐛 Debug", "🔄 Repeat"],
+};
+    </div>
+  </div>
+</div>
 
 <div align="center">
   
