@@ -19,102 +19,21 @@
 
 ## 🎯 About Me
 
-<div align="center">
-  <style>
-    .dev-card {
-      background: linear-gradient(135deg, #0f172a, #1e293b);
-      padding: 22px;
-      border-radius: 16px;
-      width: 90%;
-      max-width: 650px;
-      color: #e2e8f0;
-      font-family: "Fira Code", monospace;
-      border: 1px solid rgba(255,255,255,0.08);
-      box-shadow: 0 0 20px rgba(0,0,0,0.4);
-      animation: fadeIn 1.2s ease-out;
-    }
-
-    .title {
-      font-size: 22px;
-      font-weight: bold;
-      background: linear-gradient(to right, #38bdf8, #818cf8);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-    }
-
-    .code {
-      background: rgba(15, 23, 42, 0.8);
-      padding: 16px;
-      border-radius: 12px;
-      text-align: left;
-      border: 1px solid rgba(255,255,255,0.08);
-      font-size: 14px;
-      line-height: 1.5;
-      position: relative;
-      overflow: hidden;
-    }
-
-    /* Typing animation */
-    .typing::after {
-      content: "|";
-      animation: cursor 0.7s infinite alternate;
-      color: #38bdf8;
-    }
-
-    @keyframes cursor {
-      0% { opacity: 1; }
-      100% { opacity: 0; }
-    }
-
-    /* Fade */
-    @keyframes fadeIn {
-      from { opacity: 0; transform: translateY(10px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-
-    /* Glow animation */
-    @keyframes glow {
-      0% { box-shadow: 0 0 4px #38bdf8; }
-      50% { box-shadow: 0 0 12px #38bdf8; }
-      100% { box-shadow: 0 0 4px #38bdf8; }
-    }
-  </style>
-
-  <div class="dev-card">
-    <div class="title">BackendDeveloper.ts — Raditya Ahmad</div>
-    <br>
-
-    <div class="code typing">
+```typescript
 const raditya = {
-  name: "Raditya Ahmad",
-  role: "Junior Backend Developer",
-  location: "Indonesia 🇮🇩",
-
-  focus: "Building stable, efficient & scalable backend services",
-
-  technologies: {
-    backend: ["Node.js ⚡", "Express.js 🚏", "TypeScript 🔷", "PHP 🐘"],
-    database: ["PostgreSQL 🐘", "MySQL 🐬", "MSSQL 🏢"],
-    tools: ["Docker 🐳", "Git 🔧", "Linux 🐧"]
-  },
-
-  projects: [
-    "🔍 Lost and Found System",
-    "🚀 Scalable REST API Architecture",
-    "📚 System Design Exploration"
-  ],
-
-  routine: ["☕ Coffee", "💻 Code", "🐛 Debug", "🔄 Repeat"],
+    role: "Junior Backend Developer",
+    location: "Indonesia 🇮🇩",
+    currentFocus: "Building stable, efficient, and scalable backend services",
+    technologies: {
+        backend: ["Node.js", "Express.js", "TypeScript", "PHP"],
+        database: ["PostgreSQL", "MySQL", "MSSQL"],
+        tools: ["Docker", "Git", "Linux"],
+        learning: ["Microservices", "System Design", "Cloud Architecture"]
+    },
+    currentProject: "Lost and Found Application",
+    askMeAbout: ["TypeScript", "Node.js", "PHP", "API Design"]
 };
-    </div>
-  </div>
-</div>
-
-<div align="center">
-  
-**💼 Current Status:** `Building Cool Stuff` **|** **📍 Based in:** `Indonesia` **|** **🎯 Focus:** `Backend Excellence`
-
-</div>
+```
 
 ---
 
