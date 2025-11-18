@@ -14,11 +14,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/megustaszy?label=Followers&style=social)](https://github.com/megustaszy)
 
 </div>
-
----
-
-## 🎯 About Me
-
 ---
 
 ## 🔥 Current Activity
