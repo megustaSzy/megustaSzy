@@ -100,8 +100,23 @@ I'm a Junior Backend Developer focused on building stable, efficient, and easily
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=megustaszy&show_icons=true&locale=en&layout=compact" alt="megustaszy" /></p>
+<p>
+  <img align="left"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=megustaszy&show_icons=true&locale=en&layout=compact"
+    alt="megustaszy"
+  />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=megustaszy&show_icons=true&locale=en" alt="megustaszy" /></p>
+<p>
+  <img align="center"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=megustaszy&show_icons=true&locale=en"
+    alt="megustaszy"
+  />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=megustaszy&" alt="megustaszy" /></p>
+<p>
+  <img align="center"
+    src="https://streak-stats.demolab.com/?user=megustaszy"
+    alt="megustaszy"
+  />
+</p>
