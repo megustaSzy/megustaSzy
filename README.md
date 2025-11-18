@@ -21,64 +21,59 @@
 
 <div align="center">
 
-  <!-- Title -->
-  <h3 style="
-    font-family: 'Fira Code', monospace;
-    font-size: 22px;
-    font-weight: 700;
-    background: linear-gradient(to right, #38bdf8, #818cf8);
-    -webkit-background-clip: text;
-    color: transparent;
-    margin-bottom: 14px;
-  ">
-    BackendDeveloper.ts — Raditya Ahmad
-  </h3>
-
-  <!-- Card -->
   <div style="
-    width: 90%;
-    max-width: 700px;
     background: #0f172a;
-    border-radius: 14px;
-    padding: 20px;
-    border: 1px solid rgba(255,255,255,0.09);
+    padding: 22px;
+    border-radius: 16px;
+    width: 90%;
+    max-width: 680px;
     color: #e2e8f0;
     font-family: 'Fira Code', monospace;
+    border: 1px solid rgba(255,255,255,0.1);
+    box-shadow: 0 0 18px rgba(0,0,0,0.45);
     text-align: left;
-    line-height: 1.55;
-    box-shadow: 0px 0px 12px rgba(0,0,0,0.45);
+    line-height: 1.5;
   ">
 
-<pre style="white-space: pre-wrap; font-size: 14px;">
-const raditya = {
-  name: "Raditya Ahmad",
-  role: "Junior Backend Developer",
-  location: "Indonesia 🇮🇩",
+    <div style="
+      font-size: 20px;
+      font-weight: bold;
+      background: linear-gradient(to right, #38bdf8, #818cf8);
+      -webkit-background-clip: text;
+      color: transparent;
+      margin-bottom: 16px;
+    ">
+      BackendDeveloper.ts — Raditya Ahmad
+    </div>
 
-  focus: "Building stable, efficient & scalable backend services",
+    <div><span style="color:#38bdf8">name</span>: "Raditya Ahmad"</div>
+    <div><span style="color:#38bdf8">role</span>: "Junior Backend Developer"</div>
+    <div><span style="color:#38bdf8">location</span>: "Indonesia 🇮🇩"</div>
+    <br/>
 
-  technologies: {
-    backend: ["Node.js ⚡", "Express.js 🚏", "TypeScript 🔷", "PHP 🐘"],
-    database: ["PostgreSQL 🐘", "MySQL 🐬", "MSSQL 🏢"],
-    tools: ["Docker 🐳", "Git 🔧", "Linux 🐧"]
-  },
+    <div><span style="color:#38bdf8">focus</span>: "Building stable, efficient & scalable backend services"</div>
+    <br/>
 
-  projects: [
-    "🔍 Lost and Found System",
-    "🚀 Scalable REST API Architecture",
-    "📚 System Design Exploration"
-  ],
+    <div style="color:#818cf8">technologies:</div>
+    <div style="margin-left: 20px;">
+      backend: ["Node.js ⚡", "Express.js 🚏", "TypeScript 🔷", "PHP 🐘"],<br/>
+      database: ["PostgreSQL 🐘", "MySQL 🐬", "MSSQL 🏢"],<br/>
+      tools: ["Docker 🐳", "Git 🔧", "Linux 🐧"]
+    </div>
+    <br/>
 
-  routine: ["☕ Coffee", "💻 Code", "🐛 Debug", "🔄 Repeat"],
-};
-</pre>
+    <div style="color:#818cf8">projects:</div>
+    <div style="margin-left: 20px;">
+      "🔍 Lost and Found System",<br/>
+      "🚀 Scalable REST API Architecture",<br/>
+      "📚 System Design Exploration"
+    </div>
+    <br/>
 
-  <!-- Cursor animation (SVG allowed) -->
-  <svg width="12" height="24">
-    <rect width="12" height="24" fill="#38bdf8">
-      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
-    </rect>
-  </svg>
+    <div style="color:#818cf8">routine:</div>
+    <div style="margin-left: 20px;">
+      ["☕ Coffee", "💻 Code", "🐛 Debug", "🔄 Repeat"]
+    </div>
 
   </div>
 
