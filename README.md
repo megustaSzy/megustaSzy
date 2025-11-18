@@ -20,20 +20,64 @@
 ## 🎯 About Me
 
 ```typescript
-const raditya = {
-    role: "Junior Backend Developer",
-    location: "Indonesia 🇮🇩",
-    currentFocus: "Building stable, efficient, and scalable backend services",
-    technologies: {
-        backend: ["Node.js", "Express.js", "TypeScript", "PHP"],
-        database: ["PostgreSQL", "MySQL", "MSSQL"],
-        tools: ["Docker", "Git", "Linux"],
-        learning: ["Microservices", "System Design", "Cloud Architecture"]
-    },
-    currentProject: "Lost and Found Application",
-    askMeAbout: ["TypeScript", "Node.js", "PHP", "API Design"]
-};
+class BackendDeveloper {
+    private name: string;
+    private role: string;
+    private location: string;
+    
+    constructor() {
+        this.name = "Raditya Ahmad";
+        this.role = "Junior Backend Developer";
+        this.location = "Indonesia 🇮🇩";
+    }
+    
+    getCurrentFocus(): string {
+        return "Building stable, efficient, and scalable backend services";
+    }
+    
+    getTechnologies() {
+        return {
+            backend: ["Node.js", "Express.js", "TypeScript", "PHP"],
+            database: ["PostgreSQL", "MySQL", "MSSQL"],
+            frontend: ["React", "Flutter", "TailwindCSS"],
+            tools: ["Docker", "Git", "Linux"],
+            currentlyLearning: ["Microservices", "System Design", "Cloud Architecture"]
+        };
+    }
+    
+    getCurrentProjects(): string[] {
+        return [
+            "🔍 Lost and Found Application",
+            "🚀 Building scalable REST APIs",
+            "📚 Learning System Design patterns"
+        ];
+    }
+    
+    getContactInfo() {
+        return {
+            askMeAbout: ["TypeScript", "Node.js", "PHP", "API Design"],
+            collaborateOn: ["Open Source Projects", "Backend Services", "API Development"],
+            reachOut: "Always open to interesting conversations and collaboration!"
+        };
+    }
+    
+    dailyRoutine(): void {
+        console.log("☕ Coffee");
+        console.log("💻 Code");
+        console.log("🐛 Debug");
+        console.log("🔄 Repeat");
+    }
+}
+
+const raditya = new BackendDeveloper();
+raditya.dailyRoutine();
 ```
+
+<div align="center">
+  
+**💼 Current Status:** `Building Cool Stuff` **|** **📍 Based in:** `Indonesia` **|** **🎯 Focus:** `Backend Excellence`
+
+</div>
 
 ---
 
