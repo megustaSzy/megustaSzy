@@ -19,59 +19,81 @@
 
 ## 🎯 About Me
 
-```typescript
+/** 
+ * ===============================================
+ * 🌌  Backend Developer Class – Raditya Edition  🌌
+ * ===============================================
+ * A clean, typed, and scalable blueprint —
+ * just like how I build my backend systems.
+ */
+
 class BackendDeveloper {
-    private name: string;
-    private role: string;
-    private location: string;
-    
+    private readonly name = "Raditya Ahmad";
+    private readonly role = "Junior Backend Developer";
+    private readonly location = "Indonesia 🇮🇩";
+
+    private readonly skills = {
+        backend: ["Node.js ⚡", "Express.js 🚏", "TypeScript 🔷", "PHP 🐘"],
+        database: ["PostgreSQL 🐘", "MySQL 🐬", "MSSQL 🏢"],
+        frontend: ["React ⚛️", "Flutter 🐦", "TailwindCSS 🌬️"],
+        tools: ["Docker 🐳", "Git 🔧", "Linux 🐧"],
+        currentlyLearning: ["Microservices", "System Design", "Cloud Architecture ☁️"]
+    };
+
+    private readonly projects = [
+        "🔍 Lost and Found Application",
+        "🚀 Designing scalable REST APIs",
+        "📚 Deep Diving into System Design Patterns"
+    ];
+
+    private readonly debugRoutine = ["☕ Coffee", "💻 Code", "🐛 Debug", "🔄 Repeat"];
+
     constructor() {
-        this.name = "Raditya Ahmad";
-        this.role = "Junior Backend Developer";
-        this.location = "Indonesia 🇮🇩";
+        console.log(`🚀 ${this.name} initialized as ${this.role}`);
     }
-    
-    getCurrentFocus(): string {
-        return "Building stable, efficient, and scalable backend services";
+
+    getStatus() {
+        return `🧠 Focus: Building stable, efficient, and scalable backend services`;
     }
-    
-    getTechnologies() {
+
+    getTechStack() {
+        return this.skills;
+    }
+
+    getProjects() {
+        return this.projects;
+    }
+
+    contact() {
         return {
-            backend: ["Node.js", "Express.js", "TypeScript", "PHP"],
-            database: ["PostgreSQL", "MySQL", "MSSQL"],
-            frontend: ["React", "Flutter", "TailwindCSS"],
-            tools: ["Docker", "Git", "Linux"],
-            currentlyLearning: ["Microservices", "System Design", "Cloud Architecture"]
+            askMeAbout: ["TypeScript", "Node.js", "PHP", "API Architecture"],
+            collaborateOn: ["Backend Services", "Open Source", "API Development"],
+            note: "Always open for collaboration & nice conversations 🤝"
         };
     }
-    
-    getCurrentProjects(): string[] {
-        return [
-            "🔍 Lost and Found Application",
-            "🚀 Building scalable REST APIs",
-            "📚 Learning System Design patterns"
-        ];
+
+    dailyRoutine() {
+        console.log("📅 Daily Routine:");
+        this.debugRoutine.forEach(step => console.log("   • " + step));
     }
-    
-    getContactInfo() {
-        return {
-            askMeAbout: ["TypeScript", "Node.js", "PHP", "API Design"],
-            collaborateOn: ["Open Source Projects", "Backend Services", "API Development"],
-            reachOut: "Always open to interesting conversations and collaboration!"
-        };
-    }
-    
-    dailyRoutine(): void {
-        console.log("☕ Coffee");
-        console.log("💻 Code");
-        console.log("🐛 Debug");
-        console.log("🔄 Repeat");
+
+    /** Fancy little animation */
+    bootSequence() {
+        const frames = ["⠁","⠃","⠇","⠧","⠷","⠿","⠟","⠻","⠽","⠾","⠼","⠸","⠠"];
+        let i = 0;
+        const loop = setInterval(() => {
+            process.stdout.write(`\r⚙️ Booting Developer System ${frames[i++]}`);
+            if (i === frames.length) {
+                clearInterval(loop);
+                console.log("\n✅ System Online");
+            }
+        }, 80);
     }
 }
 
 const raditya = new BackendDeveloper();
+raditya.bootSequence();
 raditya.dailyRoutine();
-```
 
 <div align="center">
   
