@@ -267,10 +267,6 @@ Currently Learning:
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 
-### 🎵 Currently Vibing To
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=0D1117&interchange=true&bar_color=58A6FF&bar_color_cover=true" alt="Spotify Now Playing" />
-
 ---
 
 <details>
