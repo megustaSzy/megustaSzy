@@ -3,10 +3,18 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Raditya%20Ahmad&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%" />
 
+<!-- Banner GIF -->
+<img 
+  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
+  width="80%" 
+  style="max-width:900px;"
+/>
+
 <!-- Animated Typing Effect -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Junior+Backend+Developer+%F0%9F%9A%80;Building+Scalable+%26+Robust+Solutions;" alt="Typing SVG" />
 </div>
+
 
 <!-- Animated Profile Views Counter -->
 <p align="center">
@@ -14,13 +22,6 @@
   <img src="https://img.shields.io/github/followers/megustaszy?label=Followers&style=for-the-badge&color=58A6FF" alt="Followers" />
   <img src="https://img.shields.io/github/stars/megustaszy?label=Stars&style=for-the-badge&color=FFA500" alt="Stars" />
 </p>
-
-<!-- Animated Snake Eating Contributions -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/megustaszy/megustaszy/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/megustaszy/megustaszy/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/megustaszy/megustaszy/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
