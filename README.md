@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Raditya%20Ahmad&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%" />
-
 <!-- Banner GIF -->
 <img 
   src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
