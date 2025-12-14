@@ -28,23 +28,117 @@
 
 ## 🎯 About Me
 
-```typescript
-const raditya = {
-    role: "Junior Backend Developer",
-    location: "Bandar Lampung, Indonesia 🇮🇩",
-    code: ["TypeScript", "JavaScript", "PHP", "Java", "C++", "Dart"],
-    technologies: {
-        backend: ["Node.js", "Express.js", "PHP"],
-        databases: ["PostgreSQL", "MySQL", "MSSQL"],
-        frontend: ["React", "TailwindCSS", "Bootstrap"],
-        tools: ["Docker", "Git", "Linux"],
-        mobile: ["Flutter", "Dart"]
-    },
-    currentFocus: "System Design & Scalable Architecture",
-    funFact: "I love optimizing code performance! ⚡",
-    motto: "Clean code always looks like it was written by someone who cares"
-};
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 👨‍💻 Professional Profile
+
+```yaml
+Name: Raditya Ahmad
+Role: Junior Backend Developer
+Location: Bandar Lampung, Indonesia 🇮🇩
+Status: Building Scalable Solutions ⚡
+Focus: System Design & Architecture
 ```
+
+</td>
+<td width="50%">
+
+### 🎨 What I Do
+
+```yaml
+Backend:
+  - API Development
+  - Database Design
+  - System Architecture
+  
+Currently Learning:
+  - Microservices
+  - Cloud Architecture
+  - Performance Optimization
+```
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+### 💼 Tech Expertise
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+<br><strong>TypeScript</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+<br><strong>JavaScript</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+<br><strong>React</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+<br><strong>Docker</strong>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="65" height="65" />
+<br><strong>Node.js</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="65" height="65" />
+<br><strong>PostgreSQL</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="65" height="65" />
+<br><strong>Git</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="65" height="65" />
+<br><strong>Linux</strong>
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700">
+
+### ⚡ Fun Facts About Me
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80" />
+<br><strong>Performance Optimizer</strong>
+<br>I love making code run faster! 🚀
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="80" />
+<br><strong>Architecture Enthusiast</strong>
+<br>Designing scalable systems 🏗️
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="80" />
+<br><strong>Clean Code Advocate</strong>
+<br>Quality over quantity 💎
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+### 💬 My Motto
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Clean+code+always+looks+like+it+was+written+by+someone+who+cares;Code+is+poetry%2C+make+it+beautiful;First%2C+solve+the+problem.+Then%2C+write+the+code." alt="Motto" />
+
+</div>
 
 ---
 
