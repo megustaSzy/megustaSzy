@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Junior+Backend+Developer+%F0%9F%9A%80;Building+Scalable+%26+Robust+Solutions;TypeScript+%7C+Node.js+%7C+PHP+%7C+PostgreSQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Junior+Backend+Developer+%F0%9F%9A%80;Building+Scalable+%26+Robust+Solutions;" alt="Typing SVG" />
 </div>
 
 <!-- Animated Profile Views Counter -->
@@ -56,8 +56,7 @@ Backend:
   - System Architecture
   
 Currently Learning:
-  - Microservices
-  - Cloud Architecture
+  - Monolith
   - Performance Optimization
 ```
 
@@ -90,20 +89,20 @@ Currently Learning:
 </tr>
 <tr>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="65" height="65" />
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="65" height="65" />
 <br><strong>Node.js</strong>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="65" height="65" />
-<br><strong>PostgreSQL</strong>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="65" height="65" />
+<br><strong>Github</strong>
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="65" height="65" />
-<br><strong>Git</strong>
+<br><strong>VsCode</strong>
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="65" height="65" />
-<br><strong>Linux</strong>
+<br><strong>Git</strong>
 </td>
 </tr>
 </table>
