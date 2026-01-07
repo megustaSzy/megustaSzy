@@ -234,15 +234,6 @@ Currently Learning:
 
 ---
 
-<details>
-<summary>📊 More Stats</summary>
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=megustaszy&repo=project-ppl&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Pinned Repo" />
-
-</details>
-
----
 
 ### 💡 *"The only way to do great work is to love what you do." - Steve Jobs*
 
