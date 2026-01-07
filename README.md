@@ -171,28 +171,8 @@ Currently Learning:
 
 <div align="center">
   
-<!-- GitHub Stats Card with Graph -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=megustaszy&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=10" alt="GitHub Stats" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=megustaszy&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF&border_radius=10" alt="GitHub Streak" />
-
-<!-- Top Languages with Better Layout -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=megustaszy&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&langs_count=8" alt="Top Languages" />
-
 <!-- Productivity Stats -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=megustaszy&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&layout=compact" alt="Wakatime Stats" />
-
-</div>
-
----
-
-## 🏆 Achievements & Trophies
-
-<div align="center">
-  
-<!-- GitHub Trophies with Animation -->
-<img src="https://github-profile-trophy.vercel.app/?username=megustaszy&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&rank=-C,-?" alt="GitHub Trophies" />
-
-</div>
 
 ---
 
@@ -216,9 +196,8 @@ Currently Learning:
 
 | Category | Skills |
 |----------|--------|
-| **Backend** | RESTful APIs, Microservices, Clean Architecture, Design Patterns |
+| **Backend** | REST API, Monolith, Clean Architecture, Design Patterns |
 | **Database** | Query Optimization, Database Design, Transactions, Indexing |
-| **DevOps** | Docker, CI/CD, Linux Server Management, Git Workflows |
 | **Soft Skills** | Problem Solving, Team Collaboration, Code Review, Documentation |
 
 </div>
