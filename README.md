@@ -9,7 +9,7 @@
 
 <!-- Animated Typing Effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Junior+Backend+Developer+%F0%9F%9A%80;Building+Scalable+%26+Robust+Solutions;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Junior+Backend+Engineer+%F0%9F%9A%80;Building+Scalable+%26+Robust+Solutions;" alt="Typing SVG" />
 </div>
 
 
@@ -36,7 +36,7 @@
 
 ```yaml
 Name: Raditya Ahmad
-Role: Junior Backend Developer
+Role: Junior Backend Engineer
 Location: Bandar Lampung, Indonesia 🇮🇩
 Status: Building Scalable Solutions ⚡
 Focus: System Design & Architecture
@@ -134,20 +134,6 @@ Currently Learning:
 ### 💬 My Motto
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Clean+code+always+looks+like+it+was+written+by+someone+who+cares;Code+is+poetry%2C+make+it+beautiful;First%2C+solve+the+problem.+Then%2C+write+the+code." alt="Motto" />
-
-</div>
-
----
-
-## 🔥 Current Activity & Projects
-
-<div align="center">
-
-| 🚀 Project | 📝 Description | 🛠️ Tech Stack |
-|-----------|----------------|----------------|
-| **[Lost and Found](https://github.com/megustaszy/project-ppl)** | Platform to help people find their lost items | TypeScript, Node.js, PostgreSQL |
-| 🌱 **Learning** | System Design & Scalable Architecture | Microservices, Docker, K8s |
-| 💡 **Exploring** | Advanced Backend Patterns | Clean Architecture, DDD |
 
 </div>
 
