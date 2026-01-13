@@ -167,15 +167,6 @@ Currently Learning:
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=megustaszy&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF&border_radius=10" alt="GitHub Streak" />
-<!-- Productivity Stats -->
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -209,28 +200,14 @@ Currently Learning:
 <div align="center">
 
 <!-- Animated Social Links -->
-<a href="https://linkedin.com/in/your-profile">
+<a href="https://www.linkedin.com/in/raditya-ahmad/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
-</a>
-<a href="https://twitter.com/your-handle">
-  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" />
-</a>
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
 </a>
 <a href="https://your-portfolio.com">
   <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio" />
 </a>
 
 </div>
-
----
-
-<div align="center">
-
-### 💭 Quote of the Day
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 
 ---
 
