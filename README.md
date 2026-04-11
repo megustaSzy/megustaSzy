@@ -74,7 +74,7 @@
 <a href="https://www.linkedin.com/in/raditya-ahmad/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
 </a>
-<a href="https://your-portfolio.com">
+<a href="https://raditya-ahmad.my.id">
   <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio" />
 </a>
 
