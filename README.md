@@ -66,20 +66,6 @@
 
 ---
 
-## 💼 Professional Skills
-
-<div align="center">
-
-| Category | Skills |
-|----------|--------|
-| **Backend** | REST API, Monolith, Clean Architecture, Design Patterns |
-| **Database** | Query Optimization, Database Design, Transactions, Indexing |
-| **Soft Skills** | Problem Solving, Team Collaboration, Code Review, Documentation |
-
-</div>
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
