@@ -24,14 +24,6 @@
 
 ---
 
-### 💬 My Motto
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Clean+code+always+looks+like+it+was+written+by+someone+who+cares;Code+is+poetry%2C+make+it+beautiful;First%2C+solve+the+problem.+Then%2C+write+the+code." alt="Motto" />
-
-</div>
-
----
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
